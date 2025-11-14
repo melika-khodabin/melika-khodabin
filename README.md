@@ -36,12 +36,12 @@ I write and publish about AI literacy, media, and digital culture.
 - Traveling 🌎  
 
 ## 🌍 A little more about me
-I 📍🏠︎ in Tehran.
-I’m an **INFP**, mixing logic with intuition, engineering with imagination, and Python scripts with philosophical midnight thoughts 🌙  
-I love David Attenborough documentaries 🐋📺  
-My favorite music bands are Soen, Katatonia, Opeth, and RADWIMPS 🎸🎧  
-My favorite 🧳✈️⛱️ destinations are **Qeshm** and **Hormoz** islands 🏝️
-I stand for equity and justice, and strongly reject antisemitism and neo-Nazism 🕊️✊
+- I 📍🏠︎ in Tehran. 
+- I’m an **INFP**, mixing logic with intuition, engineering with imagination, and Python scripts with philosophical midnight thoughts 🌙  
+- I love David Attenborough documentaries 🐋📺  
+- My favorite music bands are Soen, Katatonia, Opeth, and RADWIMPS 🎸🎧  
+- My favorite 🧳✈️⛱️ destinations are **Qeshm** and **Hormoz** islands 🏝️
+- I stand for equity and justice, and strongly reject antisemitism and neo-Nazism 🕊️✊
 
 ---
 
