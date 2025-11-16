@@ -50,3 +50,40 @@ I write and publish about AI literacy, media, and digital culture.
 [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/haruno_ko)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:khodabin.melika@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/melika-khodabin)
+
+## 🎬 TV series advise
+
+Some series I highly recommend watching, in order of my obsession level:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.imdb.com/title/tt13991232/" target="_blank">
+        <img src="https://alternativemovieposters.com/wp-content/uploads/2023/12/Dennis-Kunert_1883.jpg" alt="1883" width="200">
+      </a>
+      <br/>
+      <sub><b>1883</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.imdb.com/title/tt2628232/" target="_blank">
+        <img src="https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/03/Penny-Dreadful-Season-2-Poster-Eva-Green.jpg?w=800&ssl=1" alt="Penny Dreadful" width="200">
+      </a>
+      <br/>
+      <sub><b>Penny Dreadful</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.imdb.com/title/tt14390970/" target="_blank">
+        <img src="https://image.tmdb.org/t/p/original/tens9Bq3bWsrObwxUDKPwecNmgr.jpg" alt="The Long Ballad" width="200">
+      </a>
+      <br/>
+      <sub><b>The Long Ballad</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.imdb.com/title/tt9050352/" target="_blank">
+        <img src="https://occ-0-300-2774.1.nflxso.net/dnm/api/v6/evlCitJPPCVCry0BZlEFb5-QjKc/AAAABdcmSmjyUZn91lfFsClg02A5vNIRyENglj2flS2B1-GfGJtlBj53geMguXLQRFSP8G-fVzl818jflsd76M03qJ4fmg.jpg" alt="Le Bazar de la Charité" width="200">
+      </a>
+      <br/>
+      <sub><b>Le Bazar de la Charité</b></sub>
+    </td>
+  </tr>
+</table>
