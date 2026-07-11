@@ -30,7 +30,7 @@ I write and publish about AI literacy, media, and digital culture.
 - Playing with modeling systems 🧩  
 - Exploring digital culture, AI literacy, and the future of media 📡  
 - Researching (and sometimes publishing) about technology, education, and society 📚  
-- Learning languages (English B2, French B1, Japanese A2, Persian native) 🗣️  
+- Learning languages (English C1, French A2, Japanese A2, Persian native) 🗣️  
 - Listening to good music while working, studying, and reading 🎶  
 - Creating things that help people understand complex systems more easily 🔍  
 - Traveling 🌎  
